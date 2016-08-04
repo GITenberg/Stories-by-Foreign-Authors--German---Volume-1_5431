@@ -1,0 +1,70 @@
+_repo: Stories-by-Foreign-Authors--German---Volume-1_5431
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Zschokke, Heinrich
+    alias: Zschokke, Johann Heinrich Daniel
+    birthdate: 1771
+    deathdate: 1848
+    gutenberg_agent_id: '5011'
+    url: http://www.gutenberg.org/2009/agents/5011
+    wikipedia: http://en.wikipedia.org/wiki/Heinrich_Zschokke
+  - agent_name: Sacher-Masoch, Leopold, Ritter von
+    birthdate: 1836
+    deathdate: 1895
+    gutenberg_agent_id: '2220'
+    url: http://www.gutenberg.org/2009/agents/2220
+    wikipedia: http://en.wikipedia.org/wiki/Leopold_von_Sacher-Masoch
+  - agent_name: Heyse, Paul
+    aliases:
+    - Heyse, Paul Johann Ludwig von
+    - Heise, Paul
+    birthdate: 1830
+    deathdate: 1914
+    gutenberg_agent_id: '1121'
+    url: http://www.gutenberg.org/2009/agents/1121
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Paul_Heyse
+    - http://de.wikipedia.org/wiki/Paul_Heyse
+  - agent_name: Hoffmann, E. T. A. (Ernst Theodor Amadeus)
+    aliases:
+    - Hoffmann, Ernst Theodor Amadeus
+    - Hoffmann, Ernst Theodor Wilhelm
+    - Hoffmann, E.T.A.
+    birthdate: 1776
+    deathdate: 1822
+    gutenberg_agent_id: '2008'
+    url: http://www.gutenberg.org/2009/agents/2008
+    wikipedia: http://en.wikipedia.org/wiki/E.T.A._Hoffmann
+  - agent_name: Lindau, Rudolf
+    birthdate: 1829
+    deathdate: 1910
+    gutenberg_agent_id: '35757'
+    url: http://www.gutenberg.org/2009/agents/35757
+    wikipedia: http://de.wikipedia.org/wiki/Rudolf_Lindau_%28Schriftsteller%29
+  - agent_name: Baumbach, Rudolf
+    birthdate: 1840
+    deathdate: 1905
+    gutenberg_agent_id: '35758'
+    url: http://www.gutenberg.org/2009/agents/35758
+    wikipedia: http://en.wikipedia.org/wiki/Rudolf_Baumbach
+description: ''
+gutenberg_bookshelf: Germany
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5431'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, German -- Translations into English'
+- !lcc 'PT'
+- GITenberg
+tableOfContents: The fury, Paul Heyse -- The philosopher's pendulum, Rudolph Lindau
+  -- The bookbinder of Hort, Leopold von Sacher-Masoch -- The Egyptian fire-eater,
+  Rudolph Baumbach -- The Cremona violin, E.T.A. Hoffmann -- Adventures of a new year's
+  eve, Heinrich Zschokke
+title: 'Stories by Foreign Authors: German — Volume 1'
+url: http://www.gutenberg.org/ebooks/5431
