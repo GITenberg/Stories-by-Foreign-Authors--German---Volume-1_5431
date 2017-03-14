@@ -1,5 +1,5 @@
 _repo: Stories-by-Foreign-Authors--German---Volume-1_5431
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributors:
   - agent_name: Zschokke, Heinrich
@@ -48,7 +48,12 @@ contributor:
     gutenberg_agent_id: '35758'
     url: http://www.gutenberg.org/2009/agents/35758
     wikipedia: http://en.wikipedia.org/wiki/Rudolf_Baumbach
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5431#Stories-by-Foreign-Authors--German---Volume-1
 gutenberg_bookshelf: Germany
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
